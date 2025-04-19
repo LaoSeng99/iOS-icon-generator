@@ -40,8 +40,6 @@
    ```bash
    python generate_icons.py
 
-
-
 # 🛠️ iOS App Icon Generator (Simple Script Version)
 
 This script is designed to simplify the icon production process in iOS App development. It automatically generates icon files of multiple sizes according to the settings in `Contents.json` and is used in the App's Asset Catalog.
