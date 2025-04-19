@@ -1,4 +1,4 @@
-# 🛠️ iOS App Icon Generator (Simple Script Version)
+# 🛠️ iOS 应用图标 生成工具 (Simple Script Version)
 
 这个脚本是为了简化 iOS App 开发中 icon 制作流程，**自动根据 `Contents.json` 内的设定生成多个尺寸的图标文件**，用于 App 的 Asset Catalog。
 
